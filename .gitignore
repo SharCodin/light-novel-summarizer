@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 SECRETS.py
 cookies.json
+quillbot-trial.ipynb
